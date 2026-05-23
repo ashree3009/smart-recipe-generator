@@ -26,7 +26,7 @@ Generate personalized recipes from ingredients you have, chat with an AI culinar
 2. Install dependencies: `npm install`
 3. Create a `.env` file in the `server` folder with the following keys:
    ```env
-   PORT=5000
+   PORT=4000
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
    GEMINI_API_KEY=your_google_gemini_api_key
